@@ -1,4 +1,4 @@
-# FakeBook Web App
+# FakeBook Mobile App
 
 FakeBook is an interactive, educational mock-up app designed to simulate social networking experiences for learning purposes. Developed with React Native, it mirrors the functionalities of a web version by utilizing a mock API to generate and display user data across its components.
 
